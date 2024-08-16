@@ -1,0 +1,1 @@
+ Web API em nodejs usando o Fastify e para dar uma incrementada vou usar o Knex como biblioteca de acesso a dados, alterando dados no banco postgres para conseguir analisar cada query ou transaction individual com  OpenTelemetry e Jaeger direto de um container docker para monitoramento
